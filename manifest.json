@@ -1,0 +1,16 @@
+{
+  "short_name": "first-pwa",
+  "name": "First Progressive Web App",
+  "icons": [{
+    "src": "img/icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+    "src": "img/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#000",
+  "theme_color": "#2a6fa5",
+  "display": "fullscreen"
+}
